@@ -9,11 +9,11 @@
 locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Khaled Salah"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://bekaaa.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "bekaaa/bekaaa.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,27 +77,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Khaled Salah"
+  avatar           : "/assets/images/my_pic.jpg"
+  bio              : "I am an amazing person fash5."
+  location         : "alexandria, Egypt"
+  email            : "scikdeg@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/alexandrinascikhs"
   foursquare       :
-  github           :
+  github           : "https://github.com/bekaaa/"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "http://linkedin.com/in/bekaaa"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "3368515/khaled-salah"
   steam            :
   tumblr           :
   twitter          :
@@ -111,6 +111,7 @@ author:
 include:
   - .htaccess
   - _pages
+ # - /test
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -136,7 +137,7 @@ exclude:
   - README
   - tmp
   - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
+#  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
